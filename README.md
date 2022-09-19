@@ -1,6 +1,6 @@
 # Memory-Management
 
-Software Construction and Valgrind
+Software Construction & Valgrind
 
 ## Description
 
