@@ -1,6 +1,6 @@
 # Memory-Management
 
-Software Construction and Unit Testing
+Software Construction and Valgrind
 
 ## Description
 
